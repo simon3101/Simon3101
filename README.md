@@ -21,7 +21,7 @@
 [![linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
 [![ubuntu](https://skillicons.dev/icons?i=ubuntu&theme=dark)](https://skillicons.dev)
 [![figma](https://skillicons.dev/icons?i=figma&theme=dark)](https://skillicons.dev)
-
+[![anaconda](https://skillicons.dev/icons?i=anaconda&theme=dark)](https://skillicons.dev)
 
 ### 🔗 &nbsp;Contact Me
 
