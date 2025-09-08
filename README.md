@@ -17,9 +17,8 @@
 
 [![docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
 [![git](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
+[![github](https://skillicons.dev/icons?i=github&theme=dark)](https://skillicons.dev)
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23121011.svg?style=for-the-badge&logo=gitlab&logoColor=yello)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
