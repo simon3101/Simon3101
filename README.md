@@ -8,6 +8,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/postgres-%2314354C.svg?style=for-the-badge&logo=postgres&logoColor=white)
 
 #### 🖥️ Frameworks
 #### 📚 Libraries
