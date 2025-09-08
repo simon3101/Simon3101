@@ -18,12 +18,9 @@
 [![docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
 [![git](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
 [![github](https://skillicons.dev/icons?i=github&theme=dark)](https://skillicons.dev)
-[![visual-studio-code](https://skillicons.dev/icons?i=visual-studio-code&theme=dark)](https://skillicons.dev)
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+[![linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
+[![ubuntu](https://skillicons.dev/icons?i=ubuntu&theme=dark)](https://skillicons.dev)
+[![figma](https://skillicons.dev/icons?i=figma&theme=dark)](https://skillicons.dev)
 
 
 ### 🔗 &nbsp;Contact Me
