@@ -9,12 +9,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%336791.svg?style=for-the-badge&logo=postgres&logoColor=white)
-[![Postgres](https://skillicons.dev/icons?i=postgres&theme=dark)](https://skillicons.dev)
-[![docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
+
 
 #### 🖥️ Frameworks
 #### 📚 Libraries
 #### 🔧 Tools
+
+[![docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
+[![git](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
